@@ -30,13 +30,8 @@ Apply artistic styles to images using a pre-trained neural network model from **
 1. Load pre-trained style transfer model from TensorFlow Hub  
 2. Preprocess content and style images  
 3. Perform style transfer using the model  
-4. Display and allow downloading of the result  
+4. Display and allow downloading of the result 
 
 ---
 
-## 📥 Installation  
 
-1. **Clone the Repository**  
-```bash
-git clone https://github.com/your-username/neural-style-transfer.git
-cd neural-style-transfer
