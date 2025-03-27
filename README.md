@@ -13,7 +13,7 @@ Apply artistic styles to images using a pre-trained neural network model from **
 
 | Content Image | Style Image | Stylized Image |
 |--------------|-------------|---------------|
-| ![Content](assets/cat.jpeg) | ![Style](assets/style.jpeg) | ![Stylized](assets/stylized_image.jpg) |
+| ![Content](cat.jpeg) | ![Style](style.jpeg) | ![Stylized](stylized_image.jpg) |
 
 ---
 
